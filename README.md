@@ -1,6 +1,6 @@
 # Push_Swap-42sp
 
-Sorting algoirthm with a twist!
+Sorting algorithm with a twist!
 
 ![Visualisation of sorting algorithm using two stacks and custom stack operations.](https://user-images.githubusercontent.com/49699403/210781256-cb4d85f9-3166-4279-89e5-5e816541168d.gif)
 
