@@ -20,7 +20,7 @@ First off clone this repo. Then compile the program using `make`, and finally pa
 git clone
 cd
 make
-./bin/push_swap 42 -42 
+./bin/push_swap 42 -42 1 2 3 0 472834 2347 -66573567
 ```
 Obs.: Numbers can range from -2147483648 to 2147483647. Duplicates are not allowed! Try it on and see what happens :)
 
